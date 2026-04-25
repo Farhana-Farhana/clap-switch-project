@@ -73,7 +73,7 @@ void loop() {
 
 ## 📸 Prototype
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype.png)
 
 ---
 
