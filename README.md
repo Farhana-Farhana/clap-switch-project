@@ -67,13 +67,13 @@ void loop() {
 ```
 
 ---
-## 🔌 Circuit Diagram
+## 📸 Circuit diagram
 
-![Circuit Diagram](images/circuit.png)
+![Circuit diagram](images/prototype.png)
 
-## 📸 Prototype
+## 🔌 Prototype
 
-![Prototype](images/prototype.png)
+![Prototype](images/circuit.png)
 
 ---
 
