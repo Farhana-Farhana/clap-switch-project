@@ -70,20 +70,6 @@ void loop() {
 
 ---
 
-## 💰 Cost Estimation
-
-| Component    | Cost (INR) |
-| ------------ | ---------- |
-| Arduino UNO  | 780        |
-| Sound Sensor | 90         |
-| Breadboard   | 60         |
-| Jumper Wires | 48         |
-| LED          | 2          |
-| Data Cable   | 50         |
-| **Total**    | **1030**   |
-
----
-
 ## 📸 Prototype
 
 (Add your circuit image here)
@@ -116,12 +102,3 @@ void loop() {
 ## 📚 Conclusion
 
 The clap switch is a simple yet effective system that converts sound energy into electrical control signals, enabling hands-free operation of devices.
-
----
-
-## 👩‍💻 Authors
-
-* Farhana N S
-* Fathima
-* Swetha
-* Devi Krishna
