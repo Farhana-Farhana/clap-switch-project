@@ -1,7 +1,5 @@
 # 🔊 Clap Switch using Arduino
 
-## 📌 Overview
-
 This project is a **sound sensing device (Clap Switch)** that turns an LED ON/OFF using clap sound. It uses a microphone-based sound sensor to detect claps and control electrical devices.
 
 ---
@@ -69,10 +67,13 @@ void loop() {
 ```
 
 ---
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](images/circuit.png)
 
 ## 📸 Prototype
 
-(Add your circuit image here)
+![Prototype](images/prototype.jpg)
 
 ---
 
